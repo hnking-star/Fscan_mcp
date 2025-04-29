@@ -1,0 +1,2190 @@
+{
+  "time": "2025-04-29T13:44:10.7637218+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:10.766409+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:10.8269437+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:10.8892035+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:10.9515697+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:15.8567433+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:15.9716638+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:16.9254377+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:19.3415595+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:19.3430536+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:19.4054666+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:19.4661848+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:19.5293635+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:21.9583936+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:22.3486054+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:22.4110384+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:22.4728982+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:22.4769374+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:22.5352569+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:24.4205006+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:24.4922672+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:25.4843321+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:26.5374585+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:26.5989356+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:26.6605977+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:26.7218181+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:26.7263387+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:27.42569+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:27.552534+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:28.4722023+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:29.6390193+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:29.706542+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:29.7631679+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:29.7667152+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:29.8245716+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:30.5033312+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:31.6243246+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:31.6756613+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:32.6713525+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:33.500117+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:33.90533+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:33.96717+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:33.9706072+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:34.0294158+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:34.0921269+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:34.661231+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:34.8528029+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:35.7862014+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:37.694946+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:37.8675603+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:37.9305557+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:37.9937986+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:38.0556655+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:38.0578269+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:39.038677+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:39.1108582+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:40.0399814+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:40.8011796+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:42.0416111+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:42.1015966+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:42.1044979+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:42.1629464+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:42.2254474+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:42.9630624+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:43.0169263+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:43.9986487+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:45.0551955+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:45.7700123+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:45.8324916+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:45.834703+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:45.8945929+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:45.956119+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:47.052944+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:47.1826815+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:48.1717955+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:49.0203596+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:49.8644352+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:49.9272985+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:49.9902457+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:49.9932201+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:50.0522844+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:50.8009648+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:50.9774769+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:51.9176833+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:53.1969016+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:53.7592061+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:53.8203238+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:53.8238554+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:53.8828699+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:53.943991+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:54.8871323+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:55.0673117+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:56.0072961+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:44:56.9565667+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:44:57.9154064+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:44:57.9181025+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:44:57.9776851+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:44:58.03986+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:44:58.1015348+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:44:58.8984589+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:58.9704337+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:44:59.9007659+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:45:01.028417+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:45:01.8736388+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:45:01.9350688+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:45:01.9965495+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:45:02.0018303+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:45:02.0584986+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:45:02.9993323+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:03.1205997+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:04.0283255+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:45:04.9219437+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:45:06.0930454+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:45:06.153497+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:45:06.2152359+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:45:06.2768497+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:45:06.2788369+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:45:06.9460161+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:07.0995732+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:07.9863761+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:45:09.0548011+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:45:10.0782956+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 139
+  }
+}
+{
+  "time": "2025-04-29T13:45:10.1406184+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 135
+  }
+}
+{
+  "time": "2025-04-29T13:45:10.2032754+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 445
+  }
+}
+{
+  "time": "2025-04-29T13:45:10.2654372+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 3306
+  }
+}
+{
+  "time": "2025-04-29T13:45:10.2686331+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "H.j Host 'LAPTOP-M254OPOK' is not allowed to connect to this MySQL server",
+    "info": "unauthorized",
+    "port": 3306,
+    "product": "MySQL",
+    "service": "mysql"
+  }
+}
+{
+  "time": "2025-04-29T13:45:11.1157312+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:11.2413495+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:12.2204894+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:45:13.0152285+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:45:15.0975889+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": ".",
+    "port": 139,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:15.2219658+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 445,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:16.1451986+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:16.2068053+08:00",
+  "type": "PORT",
+  "target": "192.168.93.1",
+  "status": "open",
+  "details": {
+    "port": 9200
+  }
+}
+{
+  "time": "2025-04-29T13:45:16.3935162+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:16.3956942+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:16 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:17.2402118+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:45:21.2251369+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "banner": "HTTP/1.1 400 Bad Request.Content-Type: text/plain; charset=utf-8.Connection: close.400 Bad Request",
+    "port": 9200,
+    "service": "http"
+  }
+}
+{
+  "time": "2025-04-29T13:45:24.6498781+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:24.9000912+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:24.9062306+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:24 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:27.4432672+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:27.6907386+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:27.696853+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:27 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:31.6211904+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:31.8735099+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:31.8815492+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:31 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:34.8215028+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:35.0716075+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:35.0761723+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:35 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:39.0369449+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:39.2916597+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:39.3031488+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:39 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:43.0059505+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:43.2535121+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:43.2603657+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:43 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:47.3173046+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:47.5746339+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:47.6073999+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:47 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:51.0176624+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:51.2689438+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:51.284212+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:51 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:55.0109764+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:55.2631234+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:55.2664764+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:55 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:45:58.8823217+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:45:59.1353105+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:45:59.139429+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:45:59 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:46:03.1643165+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:46:03.4138908+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:46:03.4170577+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:46:03 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:46:06.9672435+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:46:07.2148503+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:46:07.2232114+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:46:07 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:46:11.2775055+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:46:11.5263252+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:46:11.5295202+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:46:11 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
+{
+  "time": "2025-04-29T13:46:15.2228276+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "port": 135,
+    "service": "unknown"
+  }
+}
+{
+  "time": "2025-04-29T13:46:15.4739495+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "hostname": "LAPTOP-M254OPOK",
+    "ipv4": [
+      "192.168.3.1",
+      "192.168.93.1",
+      "192.168.4.1",
+      "192.168.149.1",
+      "192.168.139.1",
+      "172.20.10.8"
+    ],
+    "ipv6": [
+      "2409:8924:a61b:19fe:6abc:eb8a:4ce0:6f04",
+      "2409:8924:a61b:19fe:cd8b:2492:7678:9874"
+    ]
+  }
+}
+{
+  "time": "2025-04-29T13:46:15.4798236+08:00",
+  "type": "SERVICE",
+  "target": "192.168.93.1",
+  "status": "identified",
+  "details": {
+    "fingerprints": null,
+    "length": "5015",
+    "port": "9200",
+    "server_info": {
+      "accept-ranges": "bytes",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Tue, 29 Apr 2025 05:46:15 GMT",
+      "last-modified": "Wed, 31 Aug 2022 14:48:48 GMT",
+      "length": "5015",
+      "status_code": 200,
+      "title": "Cpolar",
+      "vary": "Accept-Encoding"
+    },
+    "service": "http",
+    "status_code": 200,
+    "title": "Cpolar",
+    "url": "http://192.168.93.1:9200"
+  }
+}
